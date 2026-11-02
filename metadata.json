@@ -1,0 +1,6 @@
+{
+  "name": "Leon Vasari — VHS Filmography",
+  "description": "Single-screen VHS filmography shelf hero for fictional film director Leon Vasari, featuring physical 3D shelf, ink-bleed poster reveal, and tactile motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
